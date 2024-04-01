@@ -20,4 +20,5 @@ SquadMe es una aplicación diseñada para poder gestionar un equipo. Habrá dos 
 - **Seguimiento del proyecto:** Jira
 
 - ## Esquema E/R
-  ![alt text]("C:\Users\34619\Pictures\Screenshots\Captura de pantalla 2024-04-01 190816.png")
+  
+![Captura de pantalla 2024-04-01 190816](https://github.com/squadMe-Proyect/squadme/assets/115071227/162ae281-7acb-465c-ae7b-78aa527f9732)
