@@ -24,7 +24,7 @@ SquadMe es una aplicación diseñada para poder gestionar un equipo. Habrá dos 
 ![Captura de pantalla 2024-04-01 190816](https://github.com/squadMe-Proyect/squadme/assets/115071227/162ae281-7acb-465c-ae7b-78aa527f9732)
 
 - ## Figma Conceptual Android
-[Figma Conceptual Android](https://www.figma.com/design/xPsmM60g44O3JyILapubrh/SquadMe?node-id=0-1&t=yUQ02REiaNkNig4D-0)
+  [Figma Conceptual Android](https://www.figma.com/design/xPsmM60g44O3JyILapubrh/SquadMe?node-id=0-1&t=yUQ02REiaNkNig4D-0)
 
 - ## Figma Final Android
   [Figma Final Android](https://www.figma.com/design/70ab3G2rfmvpu4wxCsTzro/SquadMe-Final?node-id=0-1&t=7IHDo30v8zq2ZR2g-0)
@@ -32,6 +32,7 @@ SquadMe es una aplicación diseñada para poder gestionar un equipo. Habrá dos 
 
 - ## PowerBi
   ![PowerBi](https://github.com/squadMe-Proyect/squadme/assets/115071227/fe7a0c03-f02b-43e7-a7aa-bf48c011242a)
+  Enlace al documento
   
 
   
