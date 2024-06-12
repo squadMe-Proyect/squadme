@@ -32,7 +32,7 @@ SquadMe es una aplicación diseñada para poder gestionar un equipo. Habrá dos 
 
 - ## PowerBi
   ![PowerBi](https://github.com/squadMe-Proyect/squadme/assets/115071227/fe7a0c03-f02b-43e7-a7aa-bf48c011242a)
-  Enlace al documento
+  [Enlace al documento] (tfg-powerBi.pbix)
   
 
   
