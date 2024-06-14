@@ -29,4 +29,6 @@ SquadMe es una aplicación diseñada para poder gestionar un equipo. Habrá dos 
   [Enlace al documento](/tfg-powerBi.pbix)
   
 
-  
+- ## Pandas
+  [Enlace al video explicativo](https://drive.google.com/file/d/14YTREylrgz8TijZ04bYm8O8dMtI3Hg7g/view?usp=sharing)
+  [Enlace al documento](/squadme-players.ipynb)  
